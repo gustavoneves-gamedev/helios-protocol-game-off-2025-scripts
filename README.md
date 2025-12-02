@@ -1,4 +1,18 @@
-Helios Protocol — Game Off 2025 Scripts (English Version)
+# Helios Protocol — Game Off 2025 Scripts
+
+![Solo Dev](https://img.shields.io/badge/Developer-Solo%20Dev-blue)
+![Unity](https://img.shields.io/badge/Engine-Unity-black)
+![C%23](https://img.shields.io/badge/Language-C%23-green)
+![GameOff2025](https://img.shields.io/badge/Game%20Jam-Game%20Off%202025-orange)
+
+🎮 Play the game on Itch.io (Game Off 2025 submission):
+https://snowsstudios.itch.io/helios-protocol-demo
+
+🏆 Official Game Off 2025 submission page:
+https://itch.io/jam/game-off-2025/rate/4014957
+
+## English Version
+Helios Protocol — Game Off 2025 Scripts 
 
 Source code repository for the Game Off 2025 Jam submission
 
@@ -97,7 +111,7 @@ You may not redistribute the game assets or use this code commercially
 without explicit permission from the author.
 
 
-Versão em Português (Brasil)
+## Versão em Português (Brasil)
 Helios Protocol — Scripts da Game Off 2025 
 Repositório de código-fonte para a submissão da Game Off 2025
 
